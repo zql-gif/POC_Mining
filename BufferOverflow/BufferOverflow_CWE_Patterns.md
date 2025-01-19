@@ -1,23 +1,62 @@
-## CWE-2002-0640
-### links
-CVE :[CVE-2002-0640 | CVE](https://www.cve.org/CVERecord?id=CVE-2002-0640)
+## Contents
+* [CWE-20](#cwe-20)
+* [CWE-119](#cwe-119)
+* [CWE-120](#cwe-120)
+* [CWE-121](#cwe-121)
+* [CWE-122](#cwe-122)
+* [CWE-124](#cwe-124)
+* [CWE-131](#cwe-131)
+* [CWE-170](#cwe-170)
+* [CWE-680](#cwe-680)
+* [CWE-754](#cwe-754)
+* [CWE-787](#cwe-787)
+* [CWE-805](#cwe-805)
+* [CWE-908](#cwe-908)
+* [CWE-1284](#cwe-1284)
 
-漏洞利用：
-* https://vulners.com/cve/CVE-2002-0640
-* https://www.exploit-db.com/exploits/21578
-* https://www.exploit-db.com/exploits/21579
-* https://vuldb.com/?id.18402
-* https://www.kb.cert.org/vuls/id/369347
-* https://www.giac.org/paper/gcih/339/openssh-challenge-response-vulnerability/103617
+## [CWE-20](https://cwe.mitre.org/data/definitions/20.html)
 ### Description
-Published: 2003-04-02
-Updated: 2024-07-01
+### Demonstrative Examples
 
-Buffer overflow in sshd in OpenSSH 2.3.1 through 3.3 may allow remote attackers to execute arbitrary code via a large number of responses during challenge response authentication when OpenBSD is using PAM modules with interactive keyboard authentication (PAMAuthenticationViaKbdInt).
-OpenSSH vulnerabilities allow remote attackers to gain root access via crafted responses. Upgrade advised.
+## [CWE-119](https://cwe.mitre.org/data/definitions/119.html)
+### Description
+### Demonstrative Examples
+## [CWE-120](https://cwe.mitre.org/data/definitions/120.html)
+### Description
+### Demonstrative Examples
+## [CWE-121](https://cwe.mitre.org/data/definitions/121.html)
+### Description
+### Demonstrative Examples
+## [CWE-122](https://cwe.mitre.org/data/definitions/122.html)
+### Description
+### Demonstrative Examples
+## [CWE-124](https://cwe.mitre.org/data/definitions/124.html)
+### Description
+### Demonstrative Examples
+## [CWE-131](https://cwe.mitre.org/data/definitions/131.html)
+### Description
+### Demonstrative Examples
 
-OpenSSH 2.3.1 到 3.3 版本中的 sshd 存在缓冲区溢出漏洞，可能允许远程攻击者通过在 challenge response authentication过程中发送大量响应，在 OpenBSD 使用 PAM 模块进行交互式键盘认证（PAMAuthenticationViaKbdInt）时执行任意代码。
-OpenSSH 漏洞允许远程攻击者通过精心构造的响应获得 root 访问权限。建议升级。
-### exploit one
+## [CWE-170](https://cwe.mitre.org/data/definitions/170.html)
+### Description
+### Demonstrative Examples
+## [CWE-680](https://cwe.mitre.org/data/definitions/680.html)
+### Description
+### Demonstrative Examples
+## [CWE-754](https://cwe.mitre.org/data/definitions/754.html)
+### Description
+### Demonstrative Examples
+## [CWE-787](https://cwe.mitre.org/data/definitions/787.html)
+### Description
+### Demonstrative Examples
+## [CWE-805](https://cwe.mitre.org/data/definitions/805.html)
+### Description
+### Demonstrative Examples
+## [CWE-908](https://cwe.mitre.org/data/definitions/908.html)
+### Description
+### Demonstrative Examples
 
-[[exploit one(cve-2002-0640)#漏洞原理(openssh-3.1)]]
+## [CWE-1284](https://cwe.mitre.org/data/definitions/1284.html)
+### Description
+### Demonstrative Examples
+

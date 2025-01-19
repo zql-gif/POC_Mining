@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BufferOverflow/BufferOverflow_Patterns.md",
+                "file": "BufferOverflow/BufferOverflow_CWE_Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BufferOverflow_Patterns"
+              "title": "BufferOverflow_CWE_Patterns"
             }
           }
         ]
@@ -207,11 +207,12 @@
   "active": "b81e969ab656993e",
   "lastOpenFiles": [
     "week reports/2024.01.13——2025.01.19.md",
-    "DoubleFree/DoubleFree_CWE_Patterns.md",
     "BufferOverflow/BufferOverflow_CWE_Patterns.md",
-    "BufferOverflow/BufferOverflow_Patterns.md",
-    "links.md",
+    "DoubleFree/DoubleFree_CWE_Patterns.md",
     "week reports/2024.01.06——2025.01.12.md",
+    "links.md",
+    "UseAfterFree/UseAfterFree_CWE_Patterns.md",
+    "BufferOverflow/BufferOverflow_Patterns.md",
     "week reports/2024.12.30——2025.01.05.md",
     "Shellcode/Buffer Overflow漏洞的利用及Shellcode编写.md",
     "Remote_Code_Execution/CVE-2024-11944/CVE-2024-11944.md",
@@ -240,7 +241,6 @@
     "Remote_Code_Execution/RCE漏洞列表.md",
     "Remote_Code_Execution",
     "DoubleFree",
-    "Shellcode/links.md",
     "GDB",
     "attachment/Pasted image 20250104213415.png",
     "week reports",
