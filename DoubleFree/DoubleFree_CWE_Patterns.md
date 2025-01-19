@@ -1,5 +1,5 @@
 ## Contents
-* [[#cwe-94]]
+* [cwe-94](#cwe-94)
 ## [CWE-94](https://cwe.mitre.org/data/definitions/94.html)
 
 ### CVEsLinks
