@@ -1,4 +1,4 @@
-## CVE-2002-0640
+## CWE-2002-0640
 ### links
 CVE :[CVE-2002-0640 | CVE](https://www.cve.org/CVERecord?id=CVE-2002-0640)
 
@@ -21,25 +21,3 @@ OpenSSH 漏洞允许远程攻击者通过精心构造的响应获得 root 访问
 ### exploit one
 
 [[exploit one(cve-2002-0640)#漏洞原理(openssh-3.1)]]
-
-## CVE-2002-0575
-### links
-CVE : [CVE-2002-0575 | CVE](https://www.cve.org/CVERecord?id=CVE-2002-0575)
-
-漏洞利用：
-[OpenSSH 2.x/3.x - Kerberos 4 TGT/AFS Token Buffer Overflow - exploit database | Vulners.com](https://vulners.com/exploitdb/EDB-ID:21402)
-
-### Description
-Published: 2003-04-02
-Updated: 2003-03-21
-
-Buffer overflow in OpenSSH before 2.9.9, and 3.x before 3.2.1, with Kerberos/AFS support and KerberosTgtPassing or AFSTokenPassing enabled, allows remote and local authenticated users to gain privileges.
-
-在启用 Kerberos/AFS 支持且开启 KerberosTgtPassing 或 AFSTokenPassing 的情况下，OpenSSH 版本低于 2.9.9 和 3.x 版本低于 3.2.1 存在缓冲区溢出漏洞，允许远程或本地经过身份验证的用户提升权限。
-
-Buffer overflow in OpenSSH allows privilege escalation for authenticated users before specific versions.
-OpenSSH 中的缓冲区溢出允许在特定版本之前对经过身份验证的用户进行权限提升。
-### exploit one
-
-[[exploit one(cve-2002-0575)#漏洞原理]]
-

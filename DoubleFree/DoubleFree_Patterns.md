@@ -18,7 +18,7 @@ OpenSSH 服务器（sshd）9.1 在处理 `options.kex_algorithms` 时引入了�
 
 
 ### exploit one
-[[exploit one(cve-2023-25136)]]
+[[exploit one(cve-2023-25136)#Details]]
 
 
 ## CVE-2021-28041
@@ -35,6 +35,6 @@ ssh-agent in OpenSSH before 8.5 has a double free that may be relevant in a few 
 在 OpenSSH 8.5 之前的版本中，`ssh-agent` 存在一个双重释放漏洞，这可能与某些较少见的场景相关，例如在旧版操作系统上对代理套接字（agent-socket）的不受限制访问，或将代理转发到由攻击者控制的主机。
 ### exploit one
 
-[[exploit one(cve-2021-28041)]]
+[[exploit one(cve-2021-28041)#Details(openssh8.2)]]
 
 

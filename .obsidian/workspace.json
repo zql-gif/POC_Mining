@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week reports/2024.12.30——2025.01.05.md",
+                "file": "DoubleFree/DoubleFree_CWE_Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024.12.30——2025.01.05"
+              "title": "DoubleFree_CWE_Patterns"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote_Code_Execution/CVE-2024-11944/CVE-2024-11944.md",
+                "file": "links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CVE-2024-11944"
+              "title": "links"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "BufferOverflow_Patterns"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,13 +204,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "40ae9d231aa6c854",
+  "active": "b81e969ab656993e",
   "lastOpenFiles": [
-    "week reports/2024.01.06——2025.01.12.md",
-    "Remote_Code_Execution/CVE-2024-11944/CVE-2024-11944.md",
-    "DoubleFree/DoubleFree_Patterns.md",
+    "week reports/2024.01.13——2025.01.19.md",
+    "DoubleFree/DoubleFree_CWE_Patterns.md",
+    "BufferOverflow/BufferOverflow_CWE_Patterns.md",
     "BufferOverflow/BufferOverflow_Patterns.md",
+    "links.md",
+    "week reports/2024.01.06——2025.01.12.md",
+    "week reports/2024.12.30——2025.01.05.md",
     "Shellcode/Buffer Overflow漏洞的利用及Shellcode编写.md",
+    "Remote_Code_Execution/CVE-2024-11944/CVE-2024-11944.md",
+    "BufferOverflow/CVE-2002-0575/exploit one(cve-2002-0575).md",
+    "BufferOverflow/CVE-2002-0640/exploit one(cve-2002-0640).md",
+    "DoubleFree/DoubleFree_Patterns.md",
+    "DoubleFree/CVE-2021-28041/exploit one(cve-2021-28041).md",
+    "DoubleFree/CVE-2023-25136/exploit one(cve-2023-25136).md",
     "Shellcode/Buffer.md",
     "UseAfterFree/UseAfterFree漏洞列表.md",
     "UseAfterFree/use-after-free.md",
@@ -219,18 +227,12 @@
     "GDB/调试的相关指令.md",
     "DoubleFree/DoubleFree(openssh)漏洞列表.md",
     "其他/浅析缓冲区溢出漏洞的利用与Shellcode编写.md",
-    "DoubleFree/CVE-2023-25136/exploit one(cve-2023-25136).md",
-    "DoubleFree/CVE-2021-28041/exploit one(cve-2021-28041).md",
     "BufferOverflow/BufferOverflow(openssh)漏洞列表.md",
-    "BufferOverflow/CVE-2002-0575/exploit one(cve-2002-0575).md",
     "汇编语言基础/汇编语言.md",
-    "week reports/2024.12.30——2025.01.05.md",
     "attachment/Pasted image 20241220095222.png",
-    "links.md",
     "Remote_Code_Execution/CVE-2024-11946",
     "Remote_Code_Execution/CVE-2024-11944",
     "DoubleFree/CVE-2021-28041",
-    "BufferOverflow/CVE-2002-0640/exploit one(cve-2002-0640).md",
     "DoubleFree/CVE-2023-25136",
     "BufferOverflow/CVE-2002-0575",
     "BufferOverflow/CVE-2002-0640",
@@ -241,11 +243,8 @@
     "Shellcode/links.md",
     "GDB",
     "attachment/Pasted image 20250104213415.png",
-    "list.md",
     "week reports",
     "attachment/Pasted image 20241228212619.png",
-    "Shellcode/未命名.md",
-    "Remote_Code_Execution/CVE-2024-6387/regresshion.md",
     "attachment/Pasted image 20241222214005.png",
     "attachment/Pasted image 20241222203541.png",
     "attachment/Pasted image 20241222203359.png",
