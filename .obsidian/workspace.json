@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DoubleFree/DoubleFree_CWE_Patterns.md",
+                "file": "BufferOverflow/BufferOverflow_CWE_Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DoubleFree_CWE_Patterns"
+              "title": "BufferOverflow_CWE_Patterns"
             }
           },
           {
@@ -209,6 +209,9 @@
     "week reports/2024.01.13——2025.01.19.md",
     "BufferOverflow/BufferOverflow_CWE_Patterns.md",
     "DoubleFree/DoubleFree_CWE_Patterns.md",
+    "Remote_Code_Execution/CVE-2024-6387/regresshion.md",
+    "Remote_Code_Execution/CVE-2024-6387/regresshion.txt",
+    "Remote_Code_Execution/regresshion.txt",
     "week reports/2024.01.06——2025.01.12.md",
     "links.md",
     "UseAfterFree/UseAfterFree_CWE_Patterns.md",
@@ -238,12 +241,9 @@
     "BufferOverflow/CVE-2002-0575",
     "BufferOverflow/CVE-2002-0640",
     "Remote_Code_Execution/CVE-2024-6387/links.md",
-    "Remote_Code_Execution/RCE漏洞列表.md",
     "Remote_Code_Execution",
     "DoubleFree",
-    "GDB",
     "attachment/Pasted image 20250104213415.png",
-    "week reports",
     "attachment/Pasted image 20241228212619.png",
     "attachment/Pasted image 20241222214005.png",
     "attachment/Pasted image 20241222203541.png",
