@@ -21,7 +21,6 @@
 * CWE-680:6
 * **CWE-787:365**
 * CWE-805:2
-
 ## 2 Pattern Conclusion
 先对下面的所有pattern做一个简单分类（从api的功能角度进行分类）。
 ### 2.1 copy或内存move，映射操作（缺少长度检查）
@@ -50,6 +49,23 @@
 ### 2.4 Integer overflow leading to buffer overflow
 * an integer overflow leading to buffer overflow：119-6
 * mmap：787-3
+
+## 3 copy或内存move，映射操作
+
+* strcpy ：119-1，124-1，170-1
+* strncpy：170-2，787-1, 805-1
+* memcpy：119-3
+* memmove：119-4
+* strncat：119-5
+* BCOPY：120-3
+* mmap：787-3
+
+
+
+
+
+
+---
 
 ## 3 [CWE-119](https://cwe.mitre.org/data/definitions/119.html)
 ### 3.1 Description

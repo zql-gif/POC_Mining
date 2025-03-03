@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week reports/2024.02.17——2025.02.23.md",
+                "file": "BufferOverflow/CVE-2014-0160/CVE-2014-0160漏洞原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024.02.17——2025.02.23"
+              "title": "CVE-2014-0160漏洞原理"
             }
           },
           {
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.504695892334
+    "width": 346.504695892334,
+    "collapsed": true
   },
   "right": {
     "id": "d282e171bd7e8c51",
@@ -236,19 +237,25 @@
   },
   "active": "081a1d5be2189c24",
   "lastOpenFiles": [
-    "Android相关的CWEs/论文阅读/ReposVul_A Repository-Level High-Quality Vulnerability Dataset.md",
-    "week reports/2024.02.17——2025.02.23.md",
+    "BufferOverflow/CVE-2014-0160/CVE-2014-0160漏洞代码备注.md",
+    "BufferOverflow/CVE-2014-0160/CVE-2014-0160漏洞原理.md",
+    "week reports/2024.02.24——2025.03.02.md",
+    "BufferOverflow/BufferOverflow_CWE_CVE_Patterns_Conclusion.md",
     "BufferOverflow/BufferOverflow_CWE_CVE_Patterns.md",
     "BufferOverflow/BufferOverflow_CWE_CVE_Patterns_extend.md",
+    "Android相关的CWEs/论文阅读/ReposVul_A Repository-Level High-Quality Vulnerability Dataset.md",
     "BufferOverflow/BufferOverflow_CWE_Patterns.md",
+    "links.md",
+    "week reports/2024.02.17——2025.02.23.md",
+    "Shellcode/Buffer Overflow漏洞的利用及Shellcode编写.md",
+    "CVE-2014-0160漏洞原理 - 知乎.md",
+    "BufferOverflow/CVE-2014-0160",
     "BufferOverflow/BufferOverflow_Patterns.md",
     "Android相关的CWEs/基于CWE官网描述和CVE补丁的Srm提取/数据爬取-与Android相关的CWEs.md",
     "DoubleFree/DoubleFree_CWE_Patterns.md",
-    "links.md",
     "week reports/2024.02.10——2025.02.16.md",
     "attachment/ReposVul_table1.png",
     "Android相关的CWEs/论文阅读",
-    "Shellcode/Buffer Overflow漏洞的利用及Shellcode编写.md",
     "attachment/Pasted image 20240201220634.png",
     "week reports/2024.01.13——2025.01.19.md",
     "attachment/Pasted image 20240201213815.png",
@@ -264,17 +271,11 @@
     "Android相关的CWEs/五大类CWE数量统计",
     "Android相关的CWEs/Tools/tree-sitter & javalang.md",
     "Android相关的CWEs/Tools",
-    "Android相关的CWEs/Data and Results/结果分析-sanitizer-1（2024.03.27）.md",
-    "Android相关的CWEs/Data and Results/results4(GPT-3.5,few-shot-simplified,code).md",
-    "Android相关的CWEs/Data and Results/results3(GPT-3.5,few-shot-simplified).md",
-    "Android相关的CWEs/Data and Results/result2(gpt-4.0,few-shot).md",
-    "Android相关的CWEs/Data and Results/result1(gpt-4.0,zero-shot).md",
     "Android相关的CWEs/Data and Results/CWE-862-results-1.0.xls",
     "Android相关的CWEs/Data and Results/CWE-284-results-1.0.xls",
     "Android相关的CWEs/Data and Results/CWE-200-results-1.0.xls",
     "Android相关的CWEs/Data and Results/CWE-20-results-1.0.xls",
     "Android相关的CWEs/Data and Results",
-    "Android相关的CWEs/CWE官网描述（英文）",
     "attachment/Pasted image 20241220095222.png",
     "attachment/Pasted image 20250104213415.png",
     "attachment/Pasted image 20241228212619.png",
